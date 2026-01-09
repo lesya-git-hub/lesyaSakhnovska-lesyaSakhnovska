@@ -17,6 +17,16 @@ I am a **Python Developer** passionate about automating the crypto world. I buil
 
 ### 🚀 What I'm working on
 - 📈 **Recent News and Crypto Updates Analyst Bot:** A real-time tracker for major assets with automated daily summaries.
+- **Python Weather Data Visualization Tool**
+● Developed a Python script that scrapes daily weather data
+(temperature and precipitation) from a public API, storing the data in a
+SQL database and automating the process for daily execution.
+● Output data in a structured table format and used Python's data
+visualization libraries to create comparative graphs that track changes
+over time.
+● Leveraged Python skills such as dictionary manipulation, filtering, and
+custom functions for data processing and analysis.
+******
 - 🧪 Exploring Web3 integrations and smart contract interactions.
 - ☁️ Hosting always-on scripts in the cloud.
 
